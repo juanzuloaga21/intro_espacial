@@ -6,7 +6,7 @@ Introducción al análisis espacial en R
 - Prof. Melissa Guzman (University of Southern California).
 
 ## Presentación
-En este taller proveemos una [introducción al manejo y análisis de información espacial]((docs/CONTRIBUTING.md)) encaminados a apoyar la investigación y práctica de la conservación de la biodiversidad.
+En este taller proveemos una [introducción al manejo y análisis de información espacial](Intro_espacial.html) encaminados a apoyar la investigación y práctica de la conservación de la biodiversidad.
 
 Se explica la estructura, manejo, visualización  y análisis de datos en formato ráster y vectorial. Además presentamos una sección de las herramnientas que se están desarrollando para facilitar el manejo y análisis de grandes volúmenes de datos como catálogos y funciones para el manejo de cubos de datos.
 
