@@ -1,5 +1,4 @@
-# intro_espacial_R
-Introducción al análisis espacial en R
+# Introducción al análisis espacial en R
 
 ## Equipo de trabajo
 - Juan Zuloaga (Ecodiversa Tropical)
