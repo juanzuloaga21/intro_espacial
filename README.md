@@ -11,4 +11,4 @@ Se explica la estructura, manejo, visualización y análisis de datos en formato
 
 Acompañamos el tutorial con ejemplos y ejercicios con bases de datos de acceso libre en la red.
 
-<a href="[test.html](https://juanzuloaga21.github.io/intro_espacial//Intro_espacial.html)" onclick="return ! window.open(this.href);">Open in a new window</a>
+<a href="https://juanzuloaga21.github.io/intro_espacial//Intro_espacial.html" onclick="return ! window.open(this.href);">Open in a new window</a>
